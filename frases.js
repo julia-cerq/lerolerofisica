@@ -9,12 +9,16 @@ const frases = [
         "Por dedução direta, ",
         "Obviamente ",
         "Utilizamos o método ciêntifico para demonstrar que "
+        "Como foi previsto na teoria da relatividade"
+        "Como ja antes dito por Einstein" 
     ],
     [
         "a crescente busca pela teoria unificada ",
         "a energia cinética do objeto ",
         "a derivada da função ",
         "o experimento realizado "
+        "o grande aumento da demanda acadêmica por respostas"
+        
     ],
     [
         "nos obriga à análise ",
